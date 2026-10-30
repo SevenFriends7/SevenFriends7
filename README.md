@@ -4,6 +4,9 @@
 
 Welcome to my GitHub profile! I focus on embedded Linux, hardware/software co-design, and modern developer tooling.
 
+- 🚀 **Personal Website / 个人主页**: [sevenfriends7.github.io](https://sevenfriends7.github.io/)
+- 📝 **Technical Blog / 技术博客**: [SevenFriends Tech Blog](https://sevenfriends.xtkx.site/)
+
 ---
 
 ### 📝 Latest Blog Posts / 最新博客
@@ -40,4 +43,5 @@ Welcome to my GitHub profile! I focus on embedded Linux, hardware/software co-de
 ---
 
 ### 🌐 Links
-- **Blog**: [Tech Blog](https://sevenfriends.xtkx.site/)
+- 🚀 **Portfolio / 个人作品主页**: [sevenfriends7.github.io](https://sevenfriends7.github.io/)
+- 📝 **Technical Blog / 技术博客**: [SevenFriends Tech Blog](https://sevenfriends.xtkx.site/)
