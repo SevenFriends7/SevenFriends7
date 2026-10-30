@@ -8,7 +8,11 @@ Welcome to my GitHub profile! I focus on embedded Linux, hardware/software co-de
 
 ### 📝 Latest Blog Posts / 最新博客
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [我把论文阅读器做进了 VS Code：中英对照、公式原图、AI 答疑](https://sevenfriends.xtkx.site/2026/10/29/vscode-academic-pdf-reader/) - `2026-10-29`
+- [多传感器相对定位的观测建模与优化方法](https://sevenfriends.xtkx.site/2026/10/27/uwb-aruco-4dof-sliding-window-fusion/) - `2026-10-27`
+- [基于 Yocto 与瑞萨 RZ/V2H 多核异构的跨海大桥智能巡检 ROV 全景结项总结](https://sevenfriends.xtkx.site/2026/09/19/516/) - `2026-09-19`
+- [关于MIPI摄像头的问题](https://sevenfriends.xtkx.site/2026/05/25/%e5%85%b3%e4%ba%8emipi%e6%91%84%e5%83%8f%e5%a4%b4%e7%9a%84%e9%97%ae%e9%a2%98/) - `2026-05-25`
+- [关于CA55与CM33总线访问冲突的问题](https://sevenfriends.xtkx.site/2026/04/27/%e5%85%b3%e4%ba%8eca55%e4%b8%8ecm33%e6%80%bb%e7%ba%bf%e8%ae%bf%e9%97%ae%e5%86%b2%e7%aa%81%e7%9a%84%e9%97%ae%e9%a2%98/) - `2026-04-27`<!-- BLOG-POST-LIST:END -->
 
 ---
 
