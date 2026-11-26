@@ -15,10 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Pull in WordPress Posts
         uses: gautamkrishnar/blog-post-workflow@v1
+        env:
+          NODE_OPTIONS: "--dns-result-order=ipv4first --network-family-autoselection-attempt-timeout=5000"
         with:
           feed_list: "https://sevenfriends.xtkx.site/feed/"
           max_post_count: 5
